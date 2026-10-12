@@ -3,8 +3,8 @@ This is repository for "Cross-Subject and Cross-Montage EEG Transfer Learning fo
 
 # Notebooks
 The repository contains the following notebooks:
-1. ITSA_Transformation.ipynb
-2. HybridRCSPRie_Classification.ipynb
+1. ITSA_Transformation.ipynb - Implements ITSA pipeline to recentre, rescale and rotate EEG training and testing trials to improve transfer learning. 
+2. HybridRCSPRie_Classification.ipynb - Implements hybrid feature extraction including "Seq. RCSP - Rie" and "Par. RCSP-Rie". ITSA transformed training and testing features are extracted using Regularised Common Spatial Patterns (RCSP) and Riemannian geometry-based methods. The extracted features are subsequently classified using a LOSO-CV. 
 
 # Requirements 
 - numpy
