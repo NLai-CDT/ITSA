@@ -1,5 +1,5 @@
 # Individual Tangent Space Alignment (ITSA)
-This is repository for "Cross-Subject and Cross-Montage EEG Transfer Learning for Robust Gait Adaptation Detection" (pre-print can be found: XXX)
+This is repository for "Cross-Subject and Cross-Montage EEG Transfer Learning for Robust Gait Adaptation Detection" (pre-print can be found: https://doi.org/10.48550/arXiv.2508.08216)
 
 # Notebooks
 The repository contains the following notebooks:
