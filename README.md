@@ -23,5 +23,5 @@ The repository contains the following notebooks:
 6. Run the cells in order.
    
 # Data
-Dataset used for results reported in "Cross-Subject and Cross-Montage EEG Transfer Learning for Robust Gait Adaptation Detection" are from a publicly available dataset (J. Wagner et al., ‘High-density EEG mobile brain/body imaging data recorded during a challenging auditory gait pacing task’, Sci Data, vol. 6, p. 211, Oct. 2019, doi: 10.1038/s41597-019-0223-2).The dataset is available at OpenNeuro.org with accession number ds00197144.
+Dataset used for results reported in "Cross-Subject and Cross-Montage EEG Transfer Learning for Robust Gait Adaptation Detection" are from a publicly available dataset (J. Wagner et al., ‘High-density EEG mobile brain/body imaging data recorded during a challenging auditory gait pacing task’, Sci Data, vol. 6, p. 211, Oct. 2019, doi: 10.1038/s41597-019-0223-2 https://www.nature.com/articles/s41597-019-0223-2).The dataset is available at OpenNeuro.org with accession number ds00197144.
 
